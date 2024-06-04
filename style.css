@@ -1,12 +1,12 @@
 .btn-outline-success {
-  color: hotpink;
-  border-color: hotpink;
+  color: black;
+  border-color: black;
 }
 
 .btn-outline-success:hover {
-  background-color: hotpink;
+  background-color: black;
   color: white;
-  border-color: hotpink;
+  border-color: black;
 }
 
 .btn btn-dark {
