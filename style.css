@@ -9,8 +9,8 @@
   border-color: black;
 }
 
-.btn btn-dark {
-  margin-left: 100px;
+.btn btn-dark.relative {
+  position: relative;
 }
 
 .footer {
@@ -23,4 +23,7 @@
   color: black;
   margin-right: 50px;
   margin-left: 20px;
+}
+.row {
+  margin-top: 50px;
 }
