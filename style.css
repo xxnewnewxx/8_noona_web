@@ -1,0 +1,26 @@
+.btn-outline-success {
+  color: hotpink;
+  border-color: hotpink;
+}
+
+.btn-outline-success:hover {
+  background-color: hotpink;
+  color: white;
+  border-color: hotpink;
+}
+
+.btn btn-dark {
+  margin-left: 100px;
+}
+
+.footer {
+  background-color: black;
+  height: 120px;
+}
+
+.nav-link {
+  background-color: white;
+  color: black;
+  margin-right: 50px;
+  margin-left: 20px;
+}
